@@ -23,6 +23,7 @@ int main() {
     std::cout << "La suma multiplicada por el tercer numero es: " << mul << std::endl;
 
     // Pausa para que el resultado se mantenga visible
+    std::cout << "Muchas gracias por utilizar el programa." << std::endl;
     std::cout << "Presione Enter para salir..." << std::endl;
 
      // Limpia el buffer de entrada para evitar problemas con caracteres residuales (como el Enter después de ingresar números)
